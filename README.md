@@ -1,5 +1,8 @@
 https://marksanalyzerapp-wwmqxbebgbv7sakjubiouw.streamlit.app/
+
 Marks_Analyzer_Application Link
+
+
 The Student Result Analyzer is a simple web application developed using Python and the Streamlit framework. The main purpose of this application
 is to analyze a student's academic performance based on the marks entered for different subjects.
 The application allows the user to enter the student's name and marks for subjects such as Math, Science, English, and Python. 
